@@ -1,0 +1,29 @@
+set GOOGLE_APPLICATION_CREDENTIALS = 'F:\SIH Chatbot\sakshi-qrsost-0780f618be5b.json'
+
+
+Query Text: send help pls
+Detected intent confidence: 0.830784261226654
+Fulfillment text: What's the location please
+
+Query Text: Parul University Vadodara
+Detected intent confidence: 1.0
+Fulfillment text: You first name pls
+
+Query Text: Divyang
+Detected intent confidence: 1.0
+Fulfillment text: Whats your number?
+
+Query Text: 7845166289
+Detected intent confidence: 1.0
+Fulfillment text: Help is on the way!
+
+
+Fulfillment text: who is the accused?
+
+Query Text: Siddarth
+Detected intent confidence: 0.8999999761581421
+Fulfillment text: What is the complaint?
+
+Query Text: assault
+Detected intent confidence: 0.0
+Fulfillment text: What is the complaint?
